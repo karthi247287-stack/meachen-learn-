@@ -1,0 +1,13 @@
+Credit-Scoring-Model/
+│
+├── dataset/
+│   └── credit_data.csv
+│
+├── model/
+│   └── credit_model.pkl
+│
+├── main.py
+├── train.py
+├── predict.py
+├── requirements.txt
+└── README.md
